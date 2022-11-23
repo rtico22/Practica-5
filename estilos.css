@@ -1,0 +1,23 @@
+.h12{
+    color:blueviolet;
+    font-weight:Bold;
+    text-align: center;
+}
+
+  h2{
+    color:lightgreen
+  }
+
+  .taula th{
+    background-color:rgb(201, 201, 201) ;
+    
+  }
+.h11 {
+    color:blue;
+    font-weight:Bold;
+    text-align: center;
+    }
+.taula table{
+    margin-left: auto;
+    margin-right: auto;
+}
